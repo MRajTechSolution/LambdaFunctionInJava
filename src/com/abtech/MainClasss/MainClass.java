@@ -8,6 +8,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		GetUserInfoServiceImpl serviceResponse = new GetUserInfoServiceImpl();
 
+		System.out.println("Working with github now");
 		serviceResponse.response();
 
 	}
